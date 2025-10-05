@@ -34,7 +34,7 @@ This theme was custom-built using Shopify Liquid, HTML, CSS, and JavaScript, fol
       Deployment/Preview: Shopify Theme Editor
 
 📷 Screenshots
-Homepage	Product Page	Collection Page
+![Homepage Screenshot](./screenshot/home_page.png)
 
 	
 	
@@ -71,7 +71,7 @@ Log in to your Shopify Partner Dashboard.
 
 💬 Author
 
-[Your Name]
+EVA MAE VILLAMARIN
 📧 emvillamarin09@gmail.com
 🌐 evavillamarin
 
