@@ -35,7 +35,9 @@ This theme was custom-built using Shopify Liquid, HTML, CSS, and JavaScript, fol
 
 📷 Screenshots
 ![Homepage Screenshot](./screenshot/home_page.png)
-
+![Homepage Screenshot](./screenshot/shop_page.png)
+![Homepage Screenshot](./screenshot/blogs_page.png)
+![Homepage Screenshot](./screenshot/carousel_page.png)
 	
 	
 🔗 Live Demo
@@ -50,7 +52,7 @@ This theme was custom-built using Shopify Liquid, HTML, CSS, and JavaScript, fol
       
       Clone the repository:
       
-      git clone https://github.com/yourusername/your-repo-name.git
+      git clone https://github.com/evavillamarin/E-commerce-ShopifyTheme-Website.git
 
 
 Log in to your Shopify Partner Dashboard.
