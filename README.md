@@ -1,1 +1,1 @@
-# E-commerce-ShopifyTheme-Website
+# E-commerce-ShopifyThemeHorizon-Website
