@@ -40,11 +40,10 @@ This theme was custom-built using Shopify Liquid, HTML, CSS, and JavaScript, fol
 ![Homepage Screenshot](./screenshot/carousel_page.png)
 	
 	
-🔗 Live Demo
+🔗 Video Recording of the Website
 
-    👉 View Live Shopify Preview
+    👉  https://www.loom.com/share/7741746a684d4d1b9b56960340becc9f?sid=8fce9653-a6e4-4295-adb8-ebdae197c1f5
     
-    (Replace the link above with your Shopify theme preview link — you can get it from Online Store → Themes → Actions → Preview.)
 
 🚀 Installation
 
