@@ -18,7 +18,6 @@ This theme was custom-built using Shopify Liquid, HTML, CSS, and JavaScript, fol
 
       📦 Dynamic collection and product pages
 
-      🧭 Sticky navigation & smooth animations
 
 
 
